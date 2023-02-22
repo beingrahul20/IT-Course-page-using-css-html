@@ -1,1 +1,1 @@
-# IT-Course-page-using-css-html![screencapture-chrome-extension-hfaciehifhdcgoolaejkoncjciicbemc-capture-html-2023-02-22-17_27_09](https://user-images.githubusercontent.com/121026028/220613474-7ea2d070-aa42-4e1e-a3f6-b450f723be5f.png)
+![screencapture-file-C-Users-Felix-ITS-Desktop-IT-Course-index-html-2023-02-22-17_27_01](https://user-images.githubusercontent.com/121026028/220613682-bc2b1d2a-ca90-430c-9aa9-b1ba849c2a64.png)
